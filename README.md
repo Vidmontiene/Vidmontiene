@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vidmontiene&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Vidmontiene/Top-Languages/main/languages.svg" width="70%" alt="streak graph"/>
 </div>
 
 ###
