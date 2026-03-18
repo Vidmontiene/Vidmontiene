@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vidmontiene/Top-Languages/main/languages.svg" width="70%" alt="streak graph"/>
+  <img src="https://raw.githubusercontent.com/Vidmontiene/Top-Languages/main/languages.svg" width="50%" alt="streak graph"/>
 </div>
 
 ###
