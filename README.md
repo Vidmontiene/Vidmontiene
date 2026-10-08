@@ -51,8 +51,8 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://github.com/Vidmontiene/Analise_Stack_Overflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Analise_Stack_Overflow&theme=github_dark&description_lines_count=2" />
+      <a href="https://github.com/Vidmontiene/Analise-Stack-Overflow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Analise-Stack-Overflow&theme=github_dark&description_lines_count=2" />
       </a>
     </td>
   </tr>
