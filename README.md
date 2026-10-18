@@ -77,8 +77,8 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://github.com/Vidmontiene/Site-Login">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Site-Login&theme=github_dark&description_lines_count=2" />
+      <a href="https://github.com/Vidmontiene/Karate-Scoreboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Karate-Scoreboard&theme=github_dark&description_lines_count=2" />
       </a>
     </td>
   </tr>
@@ -90,8 +90,8 @@
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://github.com/Vidmontiene/Site-Android">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Site-Android&theme=github_dark&description_lines_count=2" />
+      <a href="https://github.com/Vidmontiene/Site-Login">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidmontiene&repo=Site-Login&theme=github_dark&description_lines_count=2" />
       </a>
     </td>
   </tr>
